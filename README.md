@@ -40,8 +40,8 @@ __CPU__: Intel(R) Xeon(R) CPU @ 2.30GHz
 Проверка вычислений осуществляется сравнением соответствующих элементов матрицы с допустимой погрешностью ***epsilon*** с помощью функции __allclose__ библиотеки __numpy__.
 
 ## Графики
-![Время выполнения реализаций от размерности матриц](./Images/common.png)
-![Ускорение GPU в сравнении с CPU](./Images/acceleration.png)
+![Время выполнения реализаций от размерности матриц](./Images/common.jpg)
+![Ускорение GPU в сравнении с CPU](./Images/acceleration.jpg)
 
 ## Таблица
 <table border="0" cellpadding="0" cellspacing="0" id="sheet0" class="sheet0 gridlines">
