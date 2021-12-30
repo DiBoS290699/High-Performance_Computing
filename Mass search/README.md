@@ -30,10 +30,10 @@ __CPU реализация с использованием (n,k)__: Пробег
 Производился подсчёт среднего времени вычислений трёх реализаций, результаты которых представлены на графиках и в таблице.
 
 ## Графики
-![Сравнение времени GPU и CPU с (n,k)](./images/compare_times1.png)
-![Сравнение времени GPU и CPU без (n,k)](./images/compare_times2.png)
-![Ускорение GPU в сравнении с CPU с (n,k)](./images/acceleration1.png)
-![Ускорение GPU в сравнении с CPU без (n,k)](./images/acceleration2.png)
+![Сравнение времени GPU и CPU с (n,k)](./images/compare_times1.jpg)
+![Сравнение времени GPU и CPU без (n,k)](./images/compare_times2.jpg)
+![Ускорение GPU в сравнении с CPU с (n,k)](./images/acceleration1.jpg)
+![Ускорение GPU в сравнении с CPU без (n,k)](./images/acceleration2.jpg)
 
 ## Таблица
 <table border="0" cellpadding="0" cellspacing="0" id="sheet0" class="sheet0 gridlines">
